@@ -8,6 +8,8 @@
 
 🌐 Let's connect and explore the endless possibilities of data analysis together! 📊
 
+<img src="url-para-logo-python" alt="Python Logo" width="50" height="50"/>
+
 
 <!---
 andrewferreira89/andrewferreira89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
