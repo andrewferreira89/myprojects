@@ -6,8 +6,6 @@
 
 🌐 Let's connect and explore the endless possibilities of data analysis together! 📊
 
-Clique [neste link]([https://github.com/seu-nome-de-usuário](https://github.com/andrewferreira89/ProjetoTripleTen)) para ver meus projetos no GitHub.
-
 
 <!---
 andrewferreira89/andrewferreira89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
