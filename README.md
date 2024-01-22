@@ -20,8 +20,9 @@ Here are some of the languages and tools I've worked with:
 🎙️ Also, I'm part of a sports podcast! Check out my projects and tune in to our sports conversations.(Audio in Portuguese)[Vozes do Desporto](https://www.youtube.com/channel/UCiFfMWNpZFjfY_jVY17SaKQ)
 
 
+🌐 Let's connect and share our passion for both data and sports! 📊⚽🏀
 
-🌐 Let's connect and explore the endless possibilities of data analysis together! 📊
+
 
 
 
