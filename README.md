@@ -4,6 +4,8 @@
 
 🔍 Here are some of my projects on TripleTen: ([https://github.com/seu-nome-de-usuário/nome-do-repositorio](https://github.com/andrewferreira89/ProjetoTripleTen))
 
+🎙️ Also, I'm part of a sports podcast! Check out my projects and tune in to our sports conversations.(Audio in Portuguese)
+
 🌐 Let's connect and explore the endless possibilities of data analysis together! 📊
 
 
