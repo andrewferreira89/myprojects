@@ -4,11 +4,25 @@
 
 🔍 [Click here to check some of my projects on TripleTen:](https://github.com/andrewferreira89/ProjetoTripleTen)
 
+## Languages and Tools 🚀
+
+Here are some of the languages and tools I've worked with:
+
+- Python 🐍
+- SQL 📊
+- Pandas 🐼
+- Numpy 🧮
+- Matplotlib 📈
+- Plotly 📊
+- Scipy 📊
+- Others... 
+
 🎙️ Also, I'm part of a sports podcast! Check out my projects and tune in to our sports conversations.(Audio in Portuguese)[Vozes do Desporto](https://www.youtube.com/channel/UCiFfMWNpZFjfY_jVY17SaKQ)
+
+
 
 🌐 Let's connect and explore the endless possibilities of data analysis together! 📊
 
-<img src="url-para-logo-python" alt="Python Logo" width="50" height="50"/>
 
 
 <!---
