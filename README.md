@@ -3,6 +3,7 @@
 🏆 Throughout the course, I delved deep into the realm of data analysis, exploring key Python libraries such as pandas, numpy, matplotlib, plotly, and scipy. Countless hours in cleaning, transforming, and preprocessing datasets
 
 🔍 [Click here to check some of my projects on TripleTen:](https://github.com/andrewferreira89/ProjetoTripleTen)
+🔍 [Click here to check some projects done by myself:](https://github.com/andrewferreira89/myprojects)
 
 ## Languages and Tools 🚀
 
