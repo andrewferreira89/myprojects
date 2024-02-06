@@ -1,4 +1,34 @@
-🚀 Data Analyst | Python Enthusiast | Practicum / TripleTen11
+Objective
+
+The purpose of this notebook is to summarize and visualise of the most players of seasons between 2012 and 2024.
+
+I tried to study who are the best goalscorers, players with more assists cards.
+Also made a small analyse about Sporting Clube de Portugal.
+
+I'll share some graphs that are in my project.
+
+Also gonna add two graphs that I couldnt load on github but its in the code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Data Analyst | Python Enthusiast | Practicum / TripleTen
 
 🏆 Throughout the course, I delved deep into the realm of data analysis, exploring key Python libraries such as pandas, numpy, matplotlib, plotly, and scipy. Countless hours in cleaning, transforming, and preprocessing datasets
 
