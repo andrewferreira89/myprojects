@@ -1,4 +1,6 @@
-Objective
+This dataset was downloaded on Kaggle and it contains football player data scraped from Transfermarkt, that is updated weekly. It includes information on over 60,000 games played across multiple seasons and major competitions, with details on over 400 clubs and 30,000 players.
+
+Objective:
 
 The purpose of this notebook is to summarize and visualise of the most players of seasons between 2012 and 2024.
 
