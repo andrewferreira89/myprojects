@@ -7,11 +7,9 @@ Also made a small analyse about Sporting Clube de Portugal.
 
 I'll share some graphs that are in my project.
 
-Also gonna add two graphs that I couldnt load on github but its in the code.
+Also gonna add two graphs that I couldnt load in my file but its in the code.
 
 ![Screen Shot 2024-02-05 at 10 05 54 PM](https://github.com/andrewferreira89/myprojects/assets/147548118/0d5df5f8-0207-46cb-a355-760defb0c234)
-
-
 ![Screen Shot 2024-02-05 at 10 06 39 PM](https://github.com/andrewferreira89/myprojects/assets/147548118/41ef503f-da97-4b40-899f-b53cf7bb63ad)
 
 
