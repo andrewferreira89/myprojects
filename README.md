@@ -1,4 +1,4 @@
-🚀 Data Analyst | Python Enthusiast | Practicum / TripleTen
+🚀 Data Analyst | Python Enthusiast | Practicum / TripleTen 11
 
 🏆 Throughout the course, I delved deep into the realm of data analysis, exploring key Python libraries such as pandas, numpy, matplotlib, plotly, and scipy. Countless hours in cleaning, transforming, and preprocessing datasets
 
